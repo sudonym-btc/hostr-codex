@@ -8,7 +8,7 @@ Install the production Hostr plugin:
 codex plugin marketplace add sudonym-btc/hostr-codex
 ```
 
-For local debugging with development, staging, and production/Hostr variants:
+For local debugging with local and staging Hostr variants:
 
 ```sh
 codex plugin marketplace add sudonym-btc/hostr-codex@development
