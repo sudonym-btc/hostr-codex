@@ -29,10 +29,10 @@
       "category": "Productivity"
     },
     {
-      "name": "hostr-production",
+      "name": "hostr",
       "source": {
         "source": "local",
-        "path": "./ai/plugins/hostr-production"
+        "path": "./ai/plugins/hostr"
       },
       "policy": {
         "installation": "AVAILABLE",
