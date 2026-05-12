@@ -1,5 +1,5 @@
 {
-  "name": "hostr-production",
+  "name": "hostr",
   "version": "0.1.0",
   "description": "Use Hostr Production through MCP for finding places to stay, searching lodging/accommodation/rental listings by destination, booking reservations, managing Hostr stays/listings, image uploads, Nostr Connect/NIP-46 sign-in, relays, pubkeys, events, gift wraps, inbox threads, escrow workflows, swap recovery, and confirmed marketplace actions.",
   "author": {
